@@ -47,8 +47,9 @@ Raw data from kaggle: https://www.kaggle.com/datasets/shayanzk/winter-fashion-an
 --- 
 ## 5. Summary of findings
 - **Hypothesis 1:** The classification system was based on online research/ AI tool and data analysis of the price range of brands. The reults showed some inconsistency, therefore, a fair judgement was made between the discrepancies mostly favoring data analysis. **H1: Not true**
-- **Hypothesis 2:** High-End brands favored bolder colors, natural materials and luxury style to show case exclusivity, Mid-range brands chose more neutral tones with blended material focusing on sporty clothes. Basic fashion brand used most colours, synthetiic materials and a wide range of styles to appeal to more of the market. **H2: Mostly true showing some variation in colour**
-- ![Figure 1- Example box plot graph showing the popularity of each colour against different market segments](Popular_colour_against_market_egment_graph.png) 
+- **Hypothesis 2:** High-End brands favored bolder colors, natural materials and luxury style to show case exclusivity, Mid-range brands chose more neutral tones with blended material focusing on sporty clothes. Basic fashion brand used most colours, synthetiic materials and a wide range of styles to appeal to more of the market. **H2: Mostly true showing some variation in colour** The figure below shows an example box plot graph showing the popularity of each colour against different market segments,
+![Figure 1- Example box plot graph showing the popularity of each colour against different market segments](Popular_colour_against_market_segment_graph.png)
+**Figure 1.** Popularity of colours across market segments.
 - **Hypothesis 3:** There was no or very weak correlation between Price, Customer rating and popularity score of the data. **H3: Not true**
 - **Hypothesis 4:** Gender did not impact the price of an item. Trend status had minimal influence with trending and emerging prices at a higher price range. Additionally, price did not imapct market segment either. **H4: Mostly not true, trending items shown to be more expensive**
 --- 
