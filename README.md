@@ -1,4 +1,4 @@
-# Fashion_Trends_Analysis
+# Fashion_Trends_Analysis 👠
 
 - This dataset explores winter fashion styles and trends from 2023 to 2025, featuring over 150 clothing and accessory items from popular global brands.
 It aims to provide insights into how materials, colors, prices, and styles influence popularity and customer ratings across winter seasons.
@@ -20,7 +20,7 @@ Raw data from kaggle: https://www.kaggle.com/datasets/shayanzk/winter-fashion-an
 - Limitations: The data set was quite small and could be improved by having a larger data set with more of the same clothing item to allow better comparisons of the various variables
 --- 
 ## 2.Project motivation and objectives:
-### Motovation:
+### Motivation:
 - Understanding winter fashion trends helps brands to forecast desired styles, colours, and material, maximise profits and reduce waste and overstock.
 - Provides a competitive advantage within similar market segments.
 - E-commerce platforms can utilise to improve personalised recommendations.
@@ -36,7 +36,7 @@ Raw data from kaggle: https://www.kaggle.com/datasets/shayanzk/winter-fashion-an
    **Hypothesis 4:** Female clothing items and trending/ Emerging items are typically the most expensive.
 --- 
 ## 3. Project structure and logic
-- The dataset will be downloaded from Kaggle and loaded into the JupyterNotebook. After that, it will be cleaned and prepared so it’s in the right format for the analysis or if it needs to be used forfuture work. Once the data is ready, Exploratory Data Analysis (EDA) will be carried out to look at methods of classification, check for outliers and understand correlation and distribution between variables. Finally, visualisations will be created to show how the variables relate to each other, understand trend and validate the hypothesis.
+- The dataset was downloaded from Kaggle and loaded into the JupyterNotebook. After that, it was cleaned and prepared so it’s in the right format for the analysis or if it needs to be used for future work. Once the data was ready, Exploratory Data Analysis (EDA) was carried out to look at methods of classification, check for outliers and understand correlation and distribution between variables. Finally, visualisations were created to show how the variables relate to each other, understand trend and validate the hypothesis.
 - All steps were performed in Python (version 3.10) via VScode using Jupyter Notebook. The initial preprocessing steps were performed with pandas and NumPy python modules. Data visualisation was performed with matplotlib and seaborn. 
 --- 
 ## 4. Visualisation techniques
