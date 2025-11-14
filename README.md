@@ -20,7 +20,7 @@ Raw data from kaggle: https://www.kaggle.com/datasets/shayanzk/winter-fashion-an
 - Limitations: The data set was quite small and could be improved by having a larger data set with more of the same clothing item to allow better comparisons of the various variables
 --- 
 ## 2.Project motivation and objectives:
-### Motovation:
+### Motivation:
 - Understanding winter fashion trends helps brands to forecast desired styles, colours, and material, maximise profits and reduce waste and overstock.
 - Provides a competitive advantage within similar market segments.
 - E-commerce platforms can utilise to improve personalised recommendations.
